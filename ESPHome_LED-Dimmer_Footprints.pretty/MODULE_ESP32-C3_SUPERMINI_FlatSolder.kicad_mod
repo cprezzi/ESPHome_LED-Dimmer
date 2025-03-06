@@ -1,0 +1,524 @@
+(footprint "MODULE_ESP32-C3_SUPERMINI_FlatSolder"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -1.905 0 90)
+		(layer "F.SilkS")
+		(uuid "ef6b47d9-bbb3-4b5f-b68f-8610b5c0581d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "ESP32-C3_SUPERMINI"
+		(at -0.254 12.7 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ada2a70f-86fa-484d-889b-6e957b79a590")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ea5a8486-46d8-4b02-8a65-b975de0e4eb7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f1dc1a0c-ce99-46f8-b468-e26c2b13f305")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" "4.2mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a2d89826-701b-4fc5-a62c-e80aeba69ffd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "722025b2-059f-40ad-8b89-e4ed19b8c719")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "Manufacturer Recommendations"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c3756dce-f824-4071-a883-897e32885c1d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/ESP32-C3%20SuperMini_TH/Espressif+Systems/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "77a02978-2132-440c-b4cb-8df66e16969e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "\n                        \n                            Super tiny ESP32-C3 board\n                        \n"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9a3af7f8-f2e7-4b0f-80d5-2e42b549b908")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "Espressif"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d4b40184-68ed-4ea1-af55-3aa0f003c101")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Espressif Systems"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ad58f745-aeea-40e9-89d3-45c1ab566839")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "Package"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "70601194-f361-42a1-adbc-4700f6486f5c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/ESP32-C3%20SuperMini_TH/Espressif+Systems/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "176358ff-b432-49d9-97cc-8631b621e701")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5f4f6dc2-f18a-4337-a78b-0f748182cbe0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "ESP32-C3 SuperMini_TH"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "29e2429b-9e1e-4bee-8b0d-82cf276bfed6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "Not in stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ea968b98-75b8-4b99-b14e-48375898fa07")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -4.536 -12.3952)
+		(end -4.536 -10.8458)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d8bfd759-dbca-4b84-9157-e50b4c2e19e9")
+	)
+	(fp_line
+		(start 4.4852 -12.3952)
+		(end -4.536 -12.3952)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "80f5af94-4320-4bbe-b7ac-ec4220eb6c15")
+	)
+	(fp_line
+		(start 4.4852 -12.3952)
+		(end 4.4852 -10.8458)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7d10a7f6-0bc2-472b-afd3-5797aae7dbdd")
+	)
+	(fp_rect
+		(start -8.5852 -10.8458)
+		(end 8.6148 10.8542)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "e71d6919-fb28-49e1-8c07-bc1215f73a20")
+	)
+	(fp_line
+		(start -9.25 -12.9)
+		(end 9.25 -12.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d02fb23f-5f8f-4e5e-ae5b-979ea7bcadac")
+	)
+	(fp_line
+		(start -9.25 11.6)
+		(end -9.25 -12.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "823b7c0a-a289-4612-bfa8-cabf71c1b866")
+	)
+	(fp_line
+		(start 9.25 -12.9)
+		(end 9.25 11.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1ef68b6b-686e-4a30-9646-5575922eda0a")
+	)
+	(fp_line
+		(start 9.25 11.6)
+		(end -9.25 11.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5255fabb-861a-48e4-90cf-2b7756a6f2a6")
+	)
+	(fp_line
+		(start -9 11.35)
+		(end -9.017 -10.8712)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6667a232-0884-4c11-899e-20545a372569")
+	)
+	(fp_line
+		(start -4.7752 -12.4206)
+		(end -4.7668 -10.8712)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1d40d51a-9c0b-487a-a8a5-d4d43a3acb76")
+	)
+	(fp_line
+		(start -4.7668 -10.8712)
+		(end -9.017 -10.8712)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9ce2d9de-2a03-4ecc-a996-30fd2f7776d4")
+	)
+	(fp_line
+		(start 4.6736 -12.4206)
+		(end -4.7752 -12.4206)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6be31542-8582-415c-a642-f558e6bf4e16")
+	)
+	(fp_line
+		(start 4.6736 -12.4206)
+		(end 4.682 -10.875)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a1a1ee50-d44c-4cbb-90c1-3f7a15acfcf8")
+	)
+	(fp_line
+		(start 8.983 -10.8712)
+		(end 4.682 -10.875)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b991ecd0-c345-474a-b30b-334c6d5ca227")
+	)
+	(fp_line
+		(start 9 11.35)
+		(end -9 11.35)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e1549e9e-1ce7-42d6-aec0-fac89368400e")
+	)
+	(fp_line
+		(start 9 11.35)
+		(end 8.983 -10.8712)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "99899d90-3b01-469c-bc48-b82f1cbdd022")
+	)
+	(fp_text user "ESP32-C3 Supermini"
+		(at 2.921 7.747 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "52c0cd5d-0e47-409b-b6e1-e0066f059d40")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(pad "0" smd roundrect
+		(at 9.5 7.874 180)
+		(size 2.5 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "d2f8ef90-0f56-4a76-af81-3bc8ef2ae78c")
+	)
+	(pad "1" smd roundrect
+		(at 9.5 5.331 180)
+		(size 2.5 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "850e43c8-c2fc-456d-9696-ce2aeee43c02")
+	)
+	(pad "2" smd roundrect
+		(at 9.5 2.791 180)
+		(size 2.5 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "317bca78-6d01-4110-b4e0-05546f481dd0")
+	)
+	(pad "3" smd roundrect
+		(at 9.5 0.251 180)
+		(size 2.5 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "1a6bb6fe-e5d1-4096-a371-e633666ede02")
+	)
+	(pad "3.3" smd roundrect
+		(at 9.5 -4.829 180)
+		(size 2.5 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "1c2513a7-a04f-41d5-8e1c-f9315f0e0bdb")
+	)
+	(pad "4" smd roundrect
+		(at 9.5 -2.289 180)
+		(size 2.5 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "17da9c1b-ff9c-4335-998d-3c7872a08d49")
+	)
+	(pad "5" smd roundrect
+		(at -9.5 -9.906 180)
+		(size 2.5 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "ce6b2f37-8c78-4159-8c26-c18e1724b2e3")
+	)
+	(pad "5V" smd roundrect
+		(at 9.5 -9.909 180)
+		(size 2.5 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "98715236-4672-49f3-9c99-fdae53fe4ca1")
+	)
+	(pad "6" smd roundrect
+		(at -9.5 -7.366 180)
+		(size 2.5 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "0c47751f-66cd-46ec-9e1a-e08937ab5dd8")
+	)
+	(pad "7" smd roundrect
+		(at -9.5 -4.826 180)
+		(size 2.5 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "cdf41215-409c-46ba-aaa5-ff2501110675")
+	)
+	(pad "8" smd roundrect
+		(at -9.5 -2.286 180)
+		(size 2.5 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "fe045d41-7ec8-404c-ac5e-2f606f524b0a")
+	)
+	(pad "9" smd roundrect
+		(at -9.5 0.254 180)
+		(size 2.5 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "4538534a-3b0d-4efb-9a46-0e7c9dd38ba4")
+	)
+	(pad "10" smd roundrect
+		(at -9.5 2.794 180)
+		(size 2.5 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "9a1ee15b-29b6-4f8c-8cbc-9ff2880554f3")
+	)
+	(pad "20" smd roundrect
+		(at -9.5 5.334 180)
+		(size 2.5 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "d8f1b967-f296-4853-8402-76f59e34fe5f")
+	)
+	(pad "21" smd roundrect
+		(at -9.5 7.874 180)
+		(size 2.5 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "be94a5a8-f2ba-4b5d-bafc-01dcf9480940")
+	)
+	(pad "G" smd roundrect
+		(at 9.5 -7.369 180)
+		(size 2.5 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "5e7d168e-452b-4908-93dd-40504eb673e3")
+	)
+	(embedded_fonts no)
+	(model "${MY_3DMODEL_DIR}/ESP32-C3 supermini v5.step"
+		(offset
+			(xyz -19.7 -6.2 -3)
+		)
+		(scale
+			(xyz 0.99 1 0.975)
+		)
+		(rotate
+			(xyz -90 0 180)
+		)
+	)
+)

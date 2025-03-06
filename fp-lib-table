@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ESPHome_LED-Dimmer_Footprints")(type "KiCad")(uri "${KIPRJMOD}/ESPHome_LED-Dimmer_Footprints.pretty")(options "")(descr ""))
+)

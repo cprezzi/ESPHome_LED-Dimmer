@@ -1,4 +1,4 @@
-25156385133779207
+25137540789474164
 A_Footprints
 BH1750FVI-TR
 
@@ -3402,125 +3402,6 @@ speaker CUI
 2
 2
 CPs_Footprints
-BH1750FVI-TR
-
-
-0
-6
-6
-CPs_Footprints
-BH1750FVI-TR_LargePin
-
-
-0
-6
-6
-CPs_Footprints
-BarrelJack_CUI_PJ-102AH_Horizontal
-Thin-pin DC Barrel Jack, https://cdn-shop.adafruit.com/datasheets/21mmdcjackDatasheet.pdf
-Power Jack
-0
-3
-3
-CPs_Footprints
-BatteryHolder_BS-2032-8-2032
-https://www.renata.com/fr/downloads/?product=smtu2032-lf&fileid=6a9833a4d49dfb7b550194fe0f
-Renata SMT battery holder coin cell 2032
-0
-2
-2
-CPs_Footprints
-BatteryHolder_BS1220-SMT
-SMT battery holder for CR1216/1220/1225, https://linxtechnologies.com/wp/wp-content/uploads/bat-hld-012-smt.pdf
-battery holder coin cell cr1216 cr1220 cr1225
-0
-2
-2
-CPs_Footprints
-CP_EIA-1608-08_AVX-J_Pad1.25x1.05mm_HandSolder
-Tantalum Capacitor SMD AVX-J (1608-08 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/48064/_t58_vmn_pt0471_1601.pdf), generated with kicad-footprint-generator
-capacitor tantalum
-0
-2
-2
-CPs_Footprints
-CP_Radial_D5.0mm_P2.00mm
-CP, Radial series, Radial, pin pitch=2.00mm, , diameter=5mm, Electrolytic Capacitor
-CP Radial series Radial pin pitch 2.00mm  diameter 5mm Electrolytic Capacitor
-0
-2
-2
-CPs_Footprints
-C_Disc_D3.0mm_W2.0mm_P2.50mm
-C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3*2mm^2, Capacitor
-C Disc series Radial pin pitch 2.50mm  diameter 3mm width 2mm Capacitor
-0
-2
-2
-CPs_Footprints
-C_Disc_D5.0mm_W2.5mm_P2.50mm
-C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf
-C Disc series Radial pin pitch 2.50mm  diameter 5mm width 2.5mm Capacitor
-0
-2
-2
-CPs_Footprints
-C_Disc_D5.1mm_W3.2mm_P5.00mm
-C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=5.1*3.2mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf
-C Disc series Radial pin pitch 5.00mm  diameter 5.1mm width 3.2mm Capacitor
-0
-2
-2
-CPs_Footprints
-DFN-S-8-1EP_6x5mm_P1.27mm
-8-Lead Plastic Dual Flat, No Lead Package (MF) - 6x5 mm Body [DFN-S] (see Microchip Packaging Specification 00000049BS.pdf)
-DFN 1.27
-0
-16
-9
-CPs_Footprints
-DHT11_22_TabDown_Nodrillhole
-Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
-Temperature and humidity module DHT22 AM2302
-0
-4
-4
-CPs_Footprints
-DIP-4_W7.62mm
-4-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
-THT DIP DIL PDIP 2.54mm 7.62mm 300mil
-0
-4
-4
-CPs_Footprints
-DIP-8_W7.62mm
-8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
-THT DIP DIL PDIP 2.54mm 7.62mm 300mil
-0
-8
-8
-CPs_Footprints
-DIP-16_W7.62mm_LongPads
-16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
-THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
-0
-16
-16
-CPs_Footprints
-D_A-405_P7.62mm_Horizontal
-Diode, A-405 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
-Diode A-405 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-CPs_Footprints
-D_DO-41_SOD81_P10.16mm_Horizontal
-Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
-Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-CPs_Footprints
 ESP32-DevKitC
 ESP32-DevKitC: https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-devkitc.html
 ESP32
@@ -3534,48 +3415,6 @@ ESP32_Relais_2 Module
 0
 40
 40
-CPs_Footprints
-Fuseholder_Clip-5x20mm_Eaton_1A5601-01_Inline_P20.80x6.76mm_D1.70mm_Horizontal
-Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Eaton 1A5601-01, https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-1axxxx-pcb-fuse-clips-atc-atm-blade-data-sheet.pdf
-fuse clip open
-0
-2
-2
-CPs_Footprints
-Fuseholder_Clip-5x20mm_Littelfuse_520_Inline_P20.50x5.80mm_D1.30mm_Horizontal
-Fuseholder Clips, 5x20mm Cylinder Fuse, Pins Inline, Horizontal, Littelfuse 520, https://m.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_100_445_030_520_datasheet.pdf.pdf
-fuse clip open
-0
-4
-2
-CPs_Footprints
-Fuseholder_SMD Mount
-Littelfuse NANO2 holder, https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_154_154t_154l_154tl_datasheet.pdf.pdf
-SMD Nano2 holder
-0
-2
-2
-CPs_Footprints
-Hirose_DF13-04P-1.25DS_1x04_P1.25mm_Horizontal
-Hirose DF13 through hole, DF13-04P-1.25DS, 4 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
-connector Hirose DF13 horizontal
-0
-4
-4
-CPs_Footprints
-Hirose_DF13-04P-1.25DS_1x04_P1.25mm_Horizontal_SMD_Only
-Hirose DF13 through hole, DF13-04P-1.25DS, 4 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
-connector Hirose DF13 horizontal
-0
-6
-5
-CPs_Footprints
-Hirose_DF13-04P-1.25DS_1x04_P1.25mm_Horizontal_TH_SMD_Combined
-Hirose DF13 through hole, DF13-04P-1.25DS, 4 Pins per row (https://www.hirose.com/product/en/products/DF13/DF13-4P-1.25DS%2820%29/), generated with kicad-footprint-generator
-connector Hirose DF13 horizontal
-0
-6
-5
 CPs_Footprints
 JST_PH_S6B-PH-K_1x06_P2.00mm_Horizontal
 JST PH series connector, S6B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
@@ -3639,13 +3478,6 @@ connector JST XH horizontal
 0
 8
 8
-CPs_Footprints
-Jack_3.5mm_PJ324M_Horizontal
-TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf
-TRS audio jack stereo horizontal
-0
-3
-3
 CPs_Footprints
 KiCad-Logo2_3mm_SilkScreen
 
@@ -3878,6 +3710,13 @@ QR_FabLab-Winti
 0
 0
 CPs_Footprints
+QR_GitHub-LedDim
+
+
+0
+0
+0
+CPs_Footprints
 RM-065_Trim_Potentiometer
 
 
@@ -4101,6 +3940,13 @@ USB C Type-C receptacle power-only charging-only 6P 6C right angled
 0
 8
 7
+CPs_Footprints
+Untitled
+
+
+0
+0
+0
 CPs_Footprints
 module RS485 Module HW0519
 
@@ -58953,6 +58799,83 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+ESPHome_LED-Dimmer_Footprints
+KiCad-Logo2_5mm_SilkScreen
+KiCad Logo
+Logo KiCad
+0
+0
+0
+ESPHome_LED-Dimmer_Footprints
+LED_1206_3216Metric
+LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+ESPHome_LED-Dimmer_Footprints
+MODULE_ESP32-C3_SUPERMINI_FlatSolder
+
+
+0
+16
+16
+ESPHome_LED-Dimmer_Footprints
+Mini BuckConverter 5V 3A
+
+
+0
+4
+4
+ESPHome_LED-Dimmer_Footprints
+MountingHole_2.2mm_M2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+ESPHome_LED-Dimmer_Footprints
+OSHW-Logo2_7.3x6mm_SilkScreen
+Open Source Hardware Symbol
+Logo Symbol OSHW
+0
+0
+0
+ESPHome_LED-Dimmer_Footprints
+QR_FabLab-Winti
+
+
+0
+0
+0
+ESPHome_LED-Dimmer_Footprints
+QR_GitHub_Repo
+
+
+0
+0
+0
+ESPHome_LED-Dimmer_Footprints
+R_XL_1206_3216Metric_Pad_HandSolder
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+ESPHome_LED-Dimmer_Footprints
+SOIC-8_3.9x4.9mm_P1.27mm
+SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
+ESPHome_LED-Dimmer_Footprints
+TerminalBlock_MetzConnect_Type059_RT06304HBWC_1x04_P3.50mm_Horizontal
+terminal block Metz Connect Type059_RT06304HBWC, 4 pins, pitch 3.5mm, size 14x6.5mm, drill diameter 1.2mm, pad diameter 2.3mm, http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310591_RT063xxHBWC_OFF-022684T.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type059_RT06304HBWC pitch 3.5mm size 14x6.5mm drill 1.2mm pad 2.3mm
+0
+4
+4
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
