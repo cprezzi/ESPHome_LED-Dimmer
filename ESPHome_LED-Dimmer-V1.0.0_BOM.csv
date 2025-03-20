@@ -1,8 +1,0 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"R1,R3";"R_XL_1206_3216Metric_Pad_HandSolder";2;"560";;;
-2;"LED1";"LED_1206_3216Metric";1;"15-21/G6C-FP1Q1L/2T";;;
-3;"J1";"TerminalBlock_MetzConnect_Type059_RT06304HBWC_1x04_P3.50mm_Horizontal";1;"Screw_Terminal_1x4, P3.81mm";;;
-4;"FET1";"SOIC-8_3.9x4.9mm_P1.27mm";1;"IRF7842PbF";;;
-5;"R2";"R_XL_1206_3216Metric_Pad_HandSolder";1;"10k";;;
-6;"U1";"MODULE_ESP32-C3_SUPERMINI_FlatSolder";1;"ESP32-C3_SUPERMINI";;;
-7;"U2";"Mini BuckConverter 5V 3A";1;"BuckConverter_5V/3A";;;

@@ -40,3 +40,9 @@ Thumbs.db
 ###################
 ESPHome_LED-Dimmer-V1.0.0-backups/
 
+# Private Files #
+#################
+*.FCStd*
+*_autosave*
+*.csv
+
